@@ -1,0 +1,5 @@
+name: Realm
+version: 3.0
+main: com.runicrealms.realm.RealmPlugin
+api-version: 1.20
+author: Excel
